@@ -1,6 +1,6 @@
 # Инструкция по запуску проекта
 
-1. Клонируйте репозиторий:
+1. Клонируйте репозиторий(либо скачайте просто zipкой):
 ```bash
 git clone <https://github.com/H1k1r1/marketplace-architecture>
 cd marketplace-architecture
