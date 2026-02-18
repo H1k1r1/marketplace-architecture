@@ -4,6 +4,7 @@
 ```
 marketplace-architecture/
 ├── README.md
+├── RUN.md
 ├── docker-compose.yml
 ├── services/
 │   ├── product-service/
