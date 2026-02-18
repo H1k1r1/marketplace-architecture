@@ -2,7 +2,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <[repository-url](https://github.com/H1k1r1/marketplace-architecture)>
+git clone <https://github.com/H1k1r1/marketplace-architecture>
 cd marketplace-architecture
 ```
 2. Запустите сервисы:
