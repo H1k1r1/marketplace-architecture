@@ -44,15 +44,6 @@ docker-compose logs user-service
 docker-compose build
 docker-compose up -d
 ```
-# Tестирование health-check:
-```bash
-#!/bin/bash
-echo "Testing Product Service..."
-curl -s http://localhost:5000/health | python3 -m json.tool
-
-echo -e "\nTesting User Service..."
-curl -s http://localhost:5001/health | python3 -m json.tool
-```
 # Если не работает:
 1. Ребут сервисов:
 ```bash
